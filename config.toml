@@ -1,7 +1,8 @@
 baseURL = 'https://inc.thinkgos.cn'
-languageCode = 'zh-CN'
 title = '云云科技有限公司'
 themes = 'hugo-universal'
+themesDir = "hugo-universal"
+languageCode = "zh-CN"
 
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "zh"
@@ -21,7 +22,7 @@ paginate = 10
 
 # Main menu
 [[menu.main]]
-name       = "Home"
+name       = "主页"
 identifier = "menu.home"
 url        = "/"
 weight     = 1
