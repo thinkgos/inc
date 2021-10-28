@@ -1,0 +1,4 @@
+baseURL = 'https://inc.thinkgos.cn'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+themes = 'hugo-universal'
